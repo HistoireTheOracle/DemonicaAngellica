@@ -1,0 +1,7 @@
+{
+  "parent": "demonica_angellica:custom/large_amethyst_bud",
+  "textures": {
+    "all": "demonica_angellica:blocks/large_amethyst_bud",
+    "particle": "demonica_angellica:blocks/large_amethyst_bud"
+  }
+}

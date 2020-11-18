@@ -1,0 +1,7 @@
+{
+  "parent": "demonica_angellica:custom/amethyst_cluster",
+  "textures": {
+    "all": "demonica_angellica:blocks/amethyst_cluster",
+    "particle": "demonica_angellica:blocks/amethyst_cluster"
+  }
+}

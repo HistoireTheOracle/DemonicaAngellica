@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "demonica_angellica:block/amethyst_stage_3"
+    },
+    "facing=north": {
+      "model": "demonica_angellica:block/amethyst_stage_3"
+    },
+    "facing=east": {
+      "model": "demonica_angellica:block/amethyst_stage_3",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "demonica_angellica:block/amethyst_stage_3",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "demonica_angellica:block/amethyst_stage_3",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "demonica_angellica:block/amethyst_stage_3",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

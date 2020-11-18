@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "demonica_angellica:blocks/cloudwood_log_side",
+    "particle": "demonica_angellica:blocks/cloudwood_log_side"
+  }
+}

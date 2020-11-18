@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "demonica_angellica:block/cloudwood_slab"
+    },
+    "type=top": {
+      "model": "demonica_angellica:block/cloudwood_slab_top"
+    },
+    "type=double": {
+      "model": "demonica_angellica:block/cloudwood_slab_full"
+    }
+  }
+}

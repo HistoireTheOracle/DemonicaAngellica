@@ -1,0 +1,15 @@
+{
+  "block.demonica_angellica.cloudwood_leaves": "Cloudwood Leaves",
+  "block.demonica_angellica.cloudwood_planks": "Cloudwood Planks",
+  "item.demonica_angellica.etherian_amethyst": "Etherian Amethyst Crystal",
+  "block.demonica_angellica.cloudwood_slab": "Cloudwood Slab",
+  "block.demonica_angellica.cloudwood_fence": "Cloudwood Fence",
+  "block.demonica_angellica.cloudwood_stairs": "Cloudwood Stairs",
+  "block.demonica_angellica.cloudwood_log": "Cloudwood Log",
+  "block.demonica_angellica.cloudwood_fence_gate": "Cloudwood Fence Gate",
+  "block.demonica_angellica.cloudwood_wood": "Cloudwood Wood",
+  "block.demonica_angellica.amethyst_stage_2": "Amethyst Medium Crystals",
+  "block.demonica_angellica.amethyst_stage_1": "Amethyst Small Crystals",
+  "block.demonica_angellica.amethyst_stage_0": "Etherian Amethyst Bud",
+  "block.demonica_angellica.amethyst_stage_3": "Amethyst Large Crystals"
+}

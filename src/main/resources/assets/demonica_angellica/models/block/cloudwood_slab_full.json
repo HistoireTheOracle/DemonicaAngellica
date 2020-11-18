@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "demonica_angellica:blocks/cloudwood_planks",
+    "top": "demonica_angellica:blocks/cloudwood_planks",
+    "side": "demonica_angellica:blocks/cloudwood_planks"
+  }
+}

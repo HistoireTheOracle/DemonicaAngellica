@@ -1,0 +1,33 @@
+{
+  "group": "demonica_angellica",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "demonica_angellica:cloudwood_planks"
+    },
+    "3": {
+      "item": "demonica_angellica:cloudwood_planks"
+    },
+    "4": {
+      "item": "demonica_angellica:cloudwood_planks"
+    },
+    "6": {
+      "item": "demonica_angellica:cloudwood_planks"
+    },
+    "7": {
+      "item": "demonica_angellica:cloudwood_planks"
+    },
+    "8": {
+      "item": "demonica_angellica:cloudwood_planks"
+    }
+  },
+  "result": {
+    "item": "demonica_angellica:cloudwood_stairs",
+    "count": 4
+  }
+}

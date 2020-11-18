@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "demonica_angellica:blocks/cloudwood_planks",
+    "particle": "demonica_angellica:blocks/cloudwood_planks"
+  }
+}

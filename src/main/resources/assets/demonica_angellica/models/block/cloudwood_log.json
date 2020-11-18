@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "demonica_angellica:blocks/cloudwood_log_top",
+    "up": "demonica_angellica:blocks/cloudwood_log_top",
+    "north": "demonica_angellica:blocks/cloudwood_log_side",
+    "east": "demonica_angellica:blocks/cloudwood_log_side",
+    "south": "demonica_angellica:blocks/cloudwood_log_side",
+    "west": "demonica_angellica:blocks/cloudwood_log_side",
+    "particle": "demonica_angellica:blocks/cloudwood_log_top"
+  }
+}
